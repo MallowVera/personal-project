@@ -1,6 +1,19 @@
 /* Style Sheet */
 
-div {
-    background-color: hsl(0, 35%, 75%);
-    background-color: brown;
+h1 {
+    color: white;
+    text-align: center;
+    border-color: hsl(0, 100%, 50%);
+    /* figure out how to add a black border to h1 */
+}
+body {
+    background-color: hsl(0, 100%, 91%);
+}
+p {
+    color:hsl(0, 46%, 25%);
+    text-align: center;
+}
+a {
+    color: hsl(0, 46%, 25%);
+    /* need to know how to align links */
 }
